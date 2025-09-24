@@ -1,0 +1,5 @@
+{
+  "name": "Ai là Triệu Phú - AI Edition",
+  "description": "A web application that simulates the 'Who Wants to Be a Millionaire' gameshow, using the Gemini API to generate questions. It supports local multiplayer, various game settings, lifelines, and a local leaderboard.",
+  "requestFramePermissions": []
+}
