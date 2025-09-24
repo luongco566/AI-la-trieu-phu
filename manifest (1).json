@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "name": "github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "github",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
